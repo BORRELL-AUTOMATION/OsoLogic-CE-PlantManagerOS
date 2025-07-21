@@ -1,5 +1,7 @@
 # Borrell Automation® OsoLogic - Open Industrial Automation Platform - CE
 
+![OSOLOGIC logo](logos/osologic_logo.png)
+
 **(C) Roig Borrell S.L. · Ibercomp S.L.**
 
 ## Project Names
