@@ -1,4 +1,4 @@
-# Borrell Automation® RootLogic - Open Industrial Automation Platform
+# Borrell Automation® RootLogic - Open Industrial Automation Platform - CE
 
 **(C) Roig Borrell S.L. · Ibercomp S.L.**
 
