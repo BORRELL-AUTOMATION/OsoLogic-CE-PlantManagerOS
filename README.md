@@ -1,4 +1,4 @@
-# Borrell Automation® RootLogic - Open Industrial Automation Platform - CE
+# Borrell Automation® OsoLogic - Open Industrial Automation Platform - CE
 
 **(C) Roig Borrell S.L. · Ibercomp S.L.**
 
@@ -6,8 +6,8 @@
 
 - Borrell Automation Platform  
 - Borrell PlantManager OS  
-- RootLogic OS  
-- RootLogic Hub  
+- OsoLogic OS  
+- OsoLogic Hub  
 - Ibercomp Altair OS  
 
 An open-source hardware and software initiative to modernize industrial and home automation, bridging the gap between traditional PLC systems and the powerful, flexible world of modern computing.
